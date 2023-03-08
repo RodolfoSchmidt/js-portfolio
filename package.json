@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "https://github.com/RodolfoSchmidt/webpackPractice.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Rodolfo Schmidt <rodolfoschmidt9@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://github.com/RodolfoSchmidt/webpackPractice/issues"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://github.com/RodolfoSchmidt/webpackPractice#readme",
   "devDependencies": {
     "cli": "^1.0.1",
     "webpack": "^5.76.0",
